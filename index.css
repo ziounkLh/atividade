@@ -1,0 +1,36 @@
+
+header {
+    a{
+        border: 2px  solid black;
+        display: inline-block;
+        height: 40px;
+        width: 90px;
+        
+        .texto {
+            text-align: center;
+        }
+    }
+}
+
+main {
+    .projeto {
+        border: 2px  solid black;
+        height: 150px;
+        width: 200px;
+        display: inline-block;
+    }
+
+    span {
+        border: 2px solid black;
+    }
+}
+   
+footer {
+    border: 2px solid black;
+    height: 45px;
+    
+    .texto1 {
+        margin-top: 12px;
+    }
+}
+
