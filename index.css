@@ -5,6 +5,8 @@ header {
         display: inline-block;
         height: 40px;
         width: 90px;
+        color: blue;
+        font-weight: bold;
         
         .texto {
             text-align: center;
